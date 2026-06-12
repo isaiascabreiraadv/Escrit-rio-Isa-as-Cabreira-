@@ -1,0 +1,20 @@
+INSTRUÇÕES PARA COLOCAR NO GITHUB PAGES
+
+1. Extraia este ZIP.
+2. Abra a pasta SITE_PRONTO_GITHUB.
+3. Selecione TODOS os arquivos dentro dela:
+   - index.html
+   - style.css
+   - script.js
+   - logo-cabreira.png
+   - dr-isaias.jpg
+   - pedro-teixeira.jpg
+   - .nojekyll
+4. No GitHub, entre no repositório.
+5. Apague os arquivos antigos, se possível, para não misturar.
+6. Clique em Add file > Upload files.
+7. Arraste TODOS os arquivos selecionados.
+8. Clique em Commit changes.
+9. Vá em Settings > Pages e aguarde publicar.
+
+IMPORTANTE: não envie a pasta fechada e não envie só o ZIP. Envie os arquivos soltos para a tela principal do repositório.
